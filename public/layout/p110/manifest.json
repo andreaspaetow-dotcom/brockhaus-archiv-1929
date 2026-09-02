@@ -1,0 +1,999 @@
+{
+  "page_id": "brockhaus_bd2_p110",
+  "printed": 110,
+  "scan_file": 118,
+  "canvas_size": {
+    "width": 1800,
+    "height": 2758
+  },
+  "columns": [
+    {
+      "id": "left",
+      "original_coordinates": {
+        "x1": 162,
+        "y1": 215,
+        "x2": 892,
+        "y2": 2609
+      }
+    },
+    {
+      "id": "right",
+      "original_coordinates": {
+        "x1": 934,
+        "y1": 215,
+        "x2": 1681,
+        "y2": 2609
+      }
+    }
+  ],
+  "pipeline": {
+    "step_1": "Bounding-Box-Gitter: Text_Fraktur · Graphic · Caption",
+    "step_2": "Zwei-Masken: Maske A (Brotschrift-OCR) von der Grafikfläche subtrahiert",
+    "step_3": "Relayout-Matrix mit original_coordinates",
+    "step_4": "Rekonstruktion auf denselben Koordinaten",
+    "caption": "kleinere Fraktur direkt unter der Grafik als Unterkanten-Anker",
+    "padding_px": 5
+  },
+  "mask_a": [
+    {
+      "category": "Text_Fraktur",
+      "x1": 159,
+      "y1": 115,
+      "x2": 935,
+      "y2": 157
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 156,
+      "y1": 150,
+      "x2": 908,
+      "y2": 191
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 154,
+      "y1": 186,
+      "x2": 904,
+      "y2": 227
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 154,
+      "y1": 221,
+      "x2": 904,
+      "y2": 262
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 154,
+      "y1": 264,
+      "x2": 908,
+      "y2": 306
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 157,
+      "y1": 302,
+      "x2": 907,
+      "y2": 344
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 155,
+      "y1": 335,
+      "x2": 907,
+      "y2": 376
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 155,
+      "y1": 366,
+      "x2": 909,
+      "y2": 407
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 155,
+      "y1": 402,
+      "x2": 908,
+      "y2": 443
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 155,
+      "y1": 440,
+      "x2": 667,
+      "y2": 481
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 191,
+      "y1": 476,
+      "x2": 910,
+      "y2": 517
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 154,
+      "y1": 507,
+      "x2": 908,
+      "y2": 549
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 154,
+      "y1": 547,
+      "x2": 634,
+      "y2": 588
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 192,
+      "y1": 578,
+      "x2": 906,
+      "y2": 619
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 157,
+      "y1": 630,
+      "x2": 908,
+      "y2": 671
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 654,
+      "x2": 907,
+      "y2": 696
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 155,
+      "y1": 690,
+      "x2": 912,
+      "y2": 732
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 156,
+      "y1": 724,
+      "x2": 871,
+      "y2": 765
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 192,
+      "y1": 758,
+      "x2": 913,
+      "y2": 799
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 155,
+      "y1": 795,
+      "x2": 908,
+      "y2": 837
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 156,
+      "y1": 830,
+      "x2": 907,
+      "y2": 871
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 157,
+      "y1": 861,
+      "x2": 495,
+      "y2": 902
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 192,
+      "y1": 906,
+      "x2": 910,
+      "y2": 947
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 156,
+      "y1": 942,
+      "x2": 912,
+      "y2": 984
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 157,
+      "y1": 974,
+      "x2": 912,
+      "y2": 1015
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 157,
+      "y1": 1017,
+      "x2": 913,
+      "y2": 1059
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1047,
+      "x2": 907,
+      "y2": 1088
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1084,
+      "x2": 909,
+      "y2": 1125
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 157,
+      "y1": 1116,
+      "x2": 909,
+      "y2": 1158
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1153,
+      "x2": 908,
+      "y2": 1195
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1206,
+      "x2": 908,
+      "y2": 1248
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1236,
+      "x2": 512,
+      "y2": 1278
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 193,
+      "y1": 1264,
+      "x2": 911,
+      "y2": 1305
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1322,
+      "x2": 888,
+      "y2": 1373
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1353,
+      "x2": 913,
+      "y2": 1409
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 158,
+      "y1": 1377,
+      "x2": 890,
+      "y2": 1430
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 160,
+      "y1": 1402,
+      "x2": 904,
+      "y2": 1458
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 160,
+      "y1": 1437,
+      "x2": 879,
+      "y2": 1481
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 159,
+      "y1": 1515,
+      "x2": 877,
+      "y2": 1562
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 160,
+      "y1": 1542,
+      "x2": 878,
+      "y2": 1590
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 161,
+      "y1": 1569,
+      "x2": 876,
+      "y2": 1614
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 161,
+      "y1": 1622,
+      "x2": 879,
+      "y2": 1666
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 161,
+      "y1": 1650,
+      "x2": 878,
+      "y2": 1703
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 162,
+      "y1": 1674,
+      "x2": 914,
+      "y2": 1722
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 162,
+      "y1": 1707,
+      "x2": 877,
+      "y2": 1752
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 384,
+      "y1": 1726,
+      "x2": 514,
+      "y2": 1767
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 163,
+      "y1": 1760,
+      "x2": 892,
+      "y2": 1806
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 385,
+      "y1": 1777,
+      "x2": 748,
+      "y2": 1832
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 162,
+      "y1": 1792,
+      "x2": 893,
+      "y2": 1840
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 163,
+      "y1": 1810,
+      "x2": 478,
+      "y2": 1856
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 198,
+      "y1": 1871,
+      "x2": 913,
+      "y2": 1912
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 166,
+      "y1": 1905,
+      "x2": 912,
+      "y2": 1946
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 165,
+      "y1": 1956,
+      "x2": 912,
+      "y2": 1997
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 164,
+      "y1": 1994,
+      "x2": 779,
+      "y2": 2036
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 333,
+      "y1": 2016,
+      "x2": 748,
+      "y2": 2058
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 199,
+      "y1": 2053,
+      "x2": 927,
+      "y2": 2094
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 165,
+      "y1": 2095,
+      "x2": 916,
+      "y2": 2137
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 165,
+      "y1": 2127,
+      "x2": 919,
+      "y2": 2168
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 167,
+      "y1": 2463,
+      "x2": 919,
+      "y2": 2504
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 167,
+      "y1": 2499,
+      "x2": 918,
+      "y2": 2541
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 169,
+      "y1": 2537,
+      "x2": 918,
+      "y2": 2578
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 169,
+      "y1": 2576,
+      "x2": 918,
+      "y2": 2617
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 911,
+      "y1": 109,
+      "x2": 1678,
+      "y2": 157
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 929,
+      "y1": 142,
+      "x2": 1674,
+      "y2": 184
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 930,
+      "y1": 181,
+      "x2": 1679,
+      "y2": 222
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 931,
+      "y1": 216,
+      "x2": 1679,
+      "y2": 258
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 929,
+      "y1": 255,
+      "x2": 1682,
+      "y2": 296
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 965,
+      "y1": 326,
+      "x2": 1675,
+      "y2": 368
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 931,
+      "y1": 361,
+      "x2": 1677,
+      "y2": 403
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 929,
+      "y1": 399,
+      "x2": 1683,
+      "y2": 441
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 931,
+      "y1": 438,
+      "x2": 1678,
+      "y2": 479
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 930,
+      "y1": 483,
+      "x2": 1678,
+      "y2": 525
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 520,
+      "x2": 1678,
+      "y2": 562
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 931,
+      "y1": 547,
+      "x2": 1680,
+      "y2": 589
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 931,
+      "y1": 580,
+      "x2": 1683,
+      "y2": 621
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 616,
+      "x2": 1676,
+      "y2": 657
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 657,
+      "x2": 1677,
+      "y2": 698
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 931,
+      "y1": 690,
+      "x2": 1678,
+      "y2": 732
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 931,
+      "y1": 738,
+      "x2": 1688,
+      "y2": 780
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 774,
+      "x2": 1685,
+      "y2": 815
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 933,
+      "y1": 805,
+      "x2": 1680,
+      "y2": 846
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 826,
+      "x2": 1192,
+      "y2": 867
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 998,
+      "y1": 885,
+      "x2": 1619,
+      "y2": 926
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 920,
+      "x2": 1682,
+      "y2": 961
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 957,
+      "x2": 1683,
+      "y2": 998
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 933,
+      "y1": 1001,
+      "x2": 1682,
+      "y2": 1042
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 1045,
+      "x2": 1680,
+      "y2": 1087
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 932,
+      "y1": 1072,
+      "x2": 1680,
+      "y2": 1113
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 933,
+      "y1": 1117,
+      "x2": 1191,
+      "y2": 1158
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 969,
+      "y1": 1144,
+      "x2": 1685,
+      "y2": 1185
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 934,
+      "y1": 1179,
+      "x2": 1682,
+      "y2": 1220
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 934,
+      "y1": 1214,
+      "x2": 1684,
+      "y2": 1256
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1257,
+      "x2": 1686,
+      "y2": 1298
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1286,
+      "x2": 1686,
+      "y2": 1328
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1324,
+      "x2": 1681,
+      "y2": 1366
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 893,
+      "y1": 1357,
+      "x2": 1685,
+      "y2": 1399
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 934,
+      "y1": 1393,
+      "x2": 1685,
+      "y2": 1434
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1436,
+      "x2": 1685,
+      "y2": 1478
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 933,
+      "y1": 1469,
+      "x2": 1689,
+      "y2": 1511
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 933,
+      "y1": 1508,
+      "x2": 1684,
+      "y2": 1549
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 934,
+      "y1": 1542,
+      "x2": 1685,
+      "y2": 1583
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1582,
+      "x2": 1687,
+      "y2": 1623
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 934,
+      "y1": 1614,
+      "x2": 1681,
+      "y2": 1655
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1654,
+      "x2": 1684,
+      "y2": 1695
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 894,
+      "y1": 1679,
+      "x2": 1688,
+      "y2": 1726
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 934,
+      "y1": 1727,
+      "x2": 1693,
+      "y2": 1768
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1765,
+      "x2": 1691,
+      "y2": 1807
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 935,
+      "y1": 1795,
+      "x2": 1684,
+      "y2": 1836
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 936,
+      "y1": 1834,
+      "x2": 1689,
+      "y2": 1876
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 936,
+      "y1": 1872,
+      "x2": 1692,
+      "y2": 1914
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 937,
+      "y1": 1900,
+      "x2": 1690,
+      "y2": 1941
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 936,
+      "y1": 1953,
+      "x2": 1692,
+      "y2": 1995
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 937,
+      "y1": 1973,
+      "x2": 1686,
+      "y2": 2014
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 937,
+      "y1": 2025,
+      "x2": 1687,
+      "y2": 2066
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 885,
+      "y1": 2053,
+      "x2": 1689,
+      "y2": 2104
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 938,
+      "y1": 2088,
+      "x2": 1691,
+      "y2": 2129
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 938,
+      "y1": 2128,
+      "x2": 1687,
+      "y2": 2170
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 938,
+      "y1": 2169,
+      "x2": 1076,
+      "y2": 2210
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 974,
+      "y1": 2200,
+      "x2": 1688,
+      "y2": 2241
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 938,
+      "y1": 2233,
+      "x2": 1689,
+      "y2": 2274
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 939,
+      "y1": 2297,
+      "x2": 1689,
+      "y2": 2338
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 940,
+      "y1": 2365,
+      "x2": 1688,
+      "y2": 2406
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 939,
+      "y1": 2411,
+      "x2": 1689,
+      "y2": 2452
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 941,
+      "y1": 2426,
+      "x2": 1692,
+      "y2": 2467
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 941,
+      "y1": 2459,
+      "x2": 1383,
+      "y2": 2501
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 975,
+      "y1": 2502,
+      "x2": 1687,
+      "y2": 2544
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 941,
+      "y1": 2540,
+      "x2": 1691,
+      "y2": 2581
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 941,
+      "y1": 2584,
+      "x2": 1690,
+      "y2": 2626
+    }
+  ],
+  "elements": [
+    {
+      "type": "graphic",
+      "category": "Graphic",
+      "id": "img_001",
+      "original_coordinates": {
+        "x1": 159,
+        "y1": 2181,
+        "x2": 902,
+        "y2": 2390
+      },
+      "optimized_file": "g01.png",
+      "kind": "zeichnung",
+      "slot": "block",
+      "padding_px": 8,
+      "caption": "SBeftünmung bei 2lu0bet)nungäfoeffiäicnien."
+    },
+    {
+      "type": "caption",
+      "category": "Caption",
+      "associated_with": "img_001",
+      "original_coordinates": {
+        "x1": 283,
+        "y1": 2399,
+        "x2": 796,
+        "y2": 2441
+      },
+      "text_ocr": "SBeftünmung bei 2lu0bet)nungäfoeffiäicnien.",
+      "text_clean": "SBeftünmung bei 2lu0bet)nungäfoeffiäicnien."
+    },
+    {
+      "type": "text_zone",
+      "id": "tz_001",
+      "column": "left",
+      "original_coordinates": {
+        "x1": 162,
+        "y1": 215,
+        "x2": 892,
+        "y2": 2177
+      }
+    },
+    {
+      "type": "text_zone",
+      "id": "tz_002",
+      "column": "left",
+      "original_coordinates": {
+        "x1": 162,
+        "y1": 2447,
+        "x2": 892,
+        "y2": 2609
+      }
+    },
+    {
+      "type": "text_zone",
+      "id": "tz_003",
+      "column": "right",
+      "original_coordinates": {
+        "x1": 934,
+        "y1": 215,
+        "x2": 1681,
+        "y2": 2609
+      }
+    }
+  ]
+}

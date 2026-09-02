@@ -1,0 +1,794 @@
+[
+  {
+    "printed": 1,
+    "page_id": "brockhaus_bd2_p001",
+    "href": "/layout/p01/manifest.json",
+    "overlay": "/layout/p01/overlay.png",
+    "page": "/layout/p01/page.jpg",
+    "dir": "p01",
+    "graphics": 2
+  },
+  {
+    "printed": 2,
+    "page_id": "brockhaus_bd2_p002",
+    "href": "/layout/p02/manifest.json",
+    "overlay": "/layout/p02/overlay.png",
+    "page": "/layout/p02/page.jpg",
+    "dir": "p02",
+    "graphics": 3
+  },
+  {
+    "printed": 3,
+    "page_id": "brockhaus_bd2_p003",
+    "href": "/layout/p03/manifest.json",
+    "overlay": "/layout/p03/overlay.png",
+    "page": "/layout/p03/page.jpg",
+    "dir": "p03",
+    "graphics": 3
+  },
+  {
+    "printed": 5,
+    "page_id": "brockhaus_bd2_p005",
+    "href": "/layout/p05/manifest.json",
+    "overlay": "/layout/p05/overlay.png",
+    "page": "/layout/p05/page.jpg",
+    "dir": "p05",
+    "graphics": 1
+  },
+  {
+    "printed": 8,
+    "page_id": "brockhaus_bd2_p008",
+    "href": "/layout/p08/manifest.json",
+    "overlay": "/layout/p08/overlay.png",
+    "page": "/layout/p08/page.jpg",
+    "dir": "p08",
+    "graphics": 2
+  },
+  {
+    "printed": 9,
+    "page_id": "brockhaus_bd2_p009",
+    "href": "/layout/p09/manifest.json",
+    "overlay": "/layout/p09/overlay.png",
+    "page": "/layout/p09/page.jpg",
+    "dir": "p09",
+    "graphics": 1
+  },
+  {
+    "printed": 19,
+    "page_id": "brockhaus_bd2_p019",
+    "href": "/layout/p19/manifest.json",
+    "overlay": "/layout/p19/overlay.png",
+    "page": "/layout/p19/page.jpg",
+    "dir": "p19",
+    "graphics": 1
+  },
+  {
+    "printed": 21,
+    "page_id": "brockhaus_bd2_p021",
+    "href": "/layout/p21/manifest.json",
+    "overlay": "/layout/p21/overlay.png",
+    "page": "/layout/p21/page.jpg",
+    "dir": "p21",
+    "graphics": 2
+  },
+  {
+    "printed": 22,
+    "page_id": "brockhaus_bd2_p022",
+    "href": "/layout/p22/manifest.json",
+    "overlay": "/layout/p22/overlay.png",
+    "page": "/layout/p22/page.jpg",
+    "dir": "p22",
+    "graphics": 1
+  },
+  {
+    "printed": 27,
+    "page_id": "brockhaus_bd2_p027",
+    "href": "/layout/p27/manifest.json",
+    "overlay": "/layout/p27/overlay.png",
+    "page": "/layout/p27/page.jpg",
+    "dir": "p27",
+    "graphics": 1
+  },
+  {
+    "printed": 31,
+    "page_id": "brockhaus_bd2_p031",
+    "href": "/layout/p31/manifest.json",
+    "overlay": "/layout/p31/overlay.png",
+    "page": "/layout/p31/page.jpg",
+    "dir": "p31",
+    "graphics": 4
+  },
+  {
+    "printed": 35,
+    "page_id": "brockhaus_bd2_p035",
+    "href": "/layout/p35/manifest.json",
+    "overlay": "/layout/p35/overlay.png",
+    "page": "/layout/p35/page.jpg",
+    "dir": "p35",
+    "graphics": 1
+  },
+  {
+    "printed": 37,
+    "page_id": "brockhaus_bd2_p037",
+    "href": "/layout/p37/manifest.json",
+    "overlay": "/layout/p37/overlay.png",
+    "page": "/layout/p37/page.jpg",
+    "dir": "p37",
+    "graphics": 1
+  },
+  {
+    "printed": 38,
+    "page_id": "brockhaus_bd2_p038",
+    "href": "/layout/p38/manifest.json",
+    "overlay": "/layout/p38/overlay.png",
+    "page": "/layout/p38/page.jpg",
+    "dir": "p38",
+    "graphics": 1
+  },
+  {
+    "printed": 39,
+    "page_id": "brockhaus_bd2_p039",
+    "href": "/layout/p39/manifest.json",
+    "overlay": "/layout/p39/overlay.png",
+    "page": "/layout/p39/page.jpg",
+    "dir": "p39",
+    "graphics": 1
+  },
+  {
+    "printed": 40,
+    "page_id": "brockhaus_bd2_p040",
+    "href": "/layout/p40/manifest.json",
+    "overlay": "/layout/p40/overlay.png",
+    "page": "/layout/p40/page.jpg",
+    "dir": "p40",
+    "graphics": 1
+  },
+  {
+    "printed": 43,
+    "page_id": "brockhaus_bd2_p043",
+    "href": "/layout/p43/manifest.json",
+    "overlay": "/layout/p43/overlay.png",
+    "page": "/layout/p43/page.jpg",
+    "dir": "p43",
+    "graphics": 1
+  },
+  {
+    "printed": 44,
+    "page_id": "brockhaus_bd2_p044",
+    "href": "/layout/p44/manifest.json",
+    "overlay": "/layout/p44/overlay.png",
+    "page": "/layout/p44/page.jpg",
+    "dir": "p44",
+    "graphics": 2
+  },
+  {
+    "printed": 46,
+    "page_id": "brockhaus_bd2_p046",
+    "href": "/layout/p46/manifest.json",
+    "overlay": "/layout/p46/overlay.png",
+    "page": "/layout/p46/page.jpg",
+    "dir": "p46",
+    "graphics": 1
+  },
+  {
+    "printed": 48,
+    "page_id": "brockhaus_bd2_p048",
+    "href": "/layout/p48/manifest.json",
+    "overlay": "/layout/p48/overlay.png",
+    "page": "/layout/p48/page.jpg",
+    "dir": "p48",
+    "graphics": 2
+  },
+  {
+    "printed": 51,
+    "page_id": "brockhaus_bd2_p051",
+    "href": "/layout/p51/manifest.json",
+    "overlay": "/layout/p51/overlay.png",
+    "page": "/layout/p51/page.jpg",
+    "dir": "p51",
+    "graphics": 1
+  },
+  {
+    "printed": 54,
+    "page_id": "brockhaus_bd2_p054",
+    "href": "/layout/p54/manifest.json",
+    "overlay": "/layout/p54/overlay.png",
+    "page": "/layout/p54/page.jpg",
+    "dir": "p54",
+    "graphics": 1
+  },
+  {
+    "printed": 55,
+    "page_id": "brockhaus_bd2_p055",
+    "href": "/layout/p55/manifest.json",
+    "overlay": "/layout/p55/overlay.png",
+    "page": "/layout/p55/page.jpg",
+    "dir": "p55",
+    "graphics": 1
+  },
+  {
+    "printed": 57,
+    "page_id": "brockhaus_bd2_p057",
+    "href": "/layout/p57/manifest.json",
+    "overlay": "/layout/p57/overlay.png",
+    "page": "/layout/p57/page.jpg",
+    "dir": "p57",
+    "graphics": 2
+  },
+  {
+    "printed": 59,
+    "page_id": "brockhaus_bd2_p059",
+    "href": "/layout/p59/manifest.json",
+    "overlay": "/layout/p59/overlay.png",
+    "page": "/layout/p59/page.jpg",
+    "dir": "p59",
+    "graphics": 1
+  },
+  {
+    "printed": 61,
+    "page_id": "brockhaus_bd2_p061",
+    "href": "/layout/p61/manifest.json",
+    "overlay": "/layout/p61/overlay.png",
+    "page": "/layout/p61/page.jpg",
+    "dir": "p61",
+    "graphics": 2
+  },
+  {
+    "printed": 62,
+    "page_id": "brockhaus_bd2_p062",
+    "href": "/layout/p62/manifest.json",
+    "overlay": "/layout/p62/overlay.png",
+    "page": "/layout/p62/page.jpg",
+    "dir": "p62",
+    "graphics": 1
+  },
+  {
+    "printed": 68,
+    "page_id": "brockhaus_bd2_p068",
+    "href": "/layout/p68/manifest.json",
+    "overlay": "/layout/p68/overlay.png",
+    "page": "/layout/p68/page.jpg",
+    "dir": "p68",
+    "graphics": 1
+  },
+  {
+    "printed": 71,
+    "page_id": "brockhaus_bd2_p071",
+    "href": "/layout/p71/manifest.json",
+    "overlay": "/layout/p71/overlay.png",
+    "page": "/layout/p71/page.jpg",
+    "dir": "p71",
+    "graphics": 1
+  },
+  {
+    "printed": 72,
+    "page_id": "brockhaus_bd2_p072",
+    "href": "/layout/p72/manifest.json",
+    "overlay": "/layout/p72/overlay.png",
+    "page": "/layout/p72/page.jpg",
+    "dir": "p72",
+    "graphics": 1
+  },
+  {
+    "printed": 73,
+    "page_id": "brockhaus_bd2_p073",
+    "href": "/layout/p73/manifest.json",
+    "overlay": "/layout/p73/overlay.png",
+    "page": "/layout/p73/page.jpg",
+    "dir": "p73",
+    "graphics": 1
+  },
+  {
+    "printed": 74,
+    "page_id": "brockhaus_bd2_p074",
+    "href": "/layout/p74/manifest.json",
+    "overlay": "/layout/p74/overlay.png",
+    "page": "/layout/p74/page.jpg",
+    "dir": "p74",
+    "graphics": 1
+  },
+  {
+    "printed": 75,
+    "page_id": "brockhaus_bd2_p075",
+    "href": "/layout/p75/manifest.json",
+    "overlay": "/layout/p75/overlay.png",
+    "page": "/layout/p75/page.jpg",
+    "dir": "p75",
+    "graphics": 1
+  },
+  {
+    "printed": 76,
+    "page_id": "brockhaus_bd2_p076",
+    "href": "/layout/p76/manifest.json",
+    "overlay": "/layout/p76/overlay.png",
+    "page": "/layout/p76/page.jpg",
+    "dir": "p76",
+    "graphics": 1
+  },
+  {
+    "printed": 78,
+    "page_id": "brockhaus_bd2_p078",
+    "href": "/layout/p78/manifest.json",
+    "overlay": "/layout/p78/overlay.png",
+    "page": "/layout/p78/page.jpg",
+    "dir": "p78",
+    "graphics": 2
+  },
+  {
+    "printed": 80,
+    "page_id": "brockhaus_bd2_p080",
+    "href": "/layout/p80/manifest.json",
+    "overlay": "/layout/p80/overlay.png",
+    "page": "/layout/p80/page.jpg",
+    "dir": "p80",
+    "graphics": 3
+  },
+  {
+    "printed": 85,
+    "page_id": "brockhaus_bd2_p085",
+    "href": "/layout/p85/manifest.json",
+    "overlay": "/layout/p85/overlay.png",
+    "page": "/layout/p85/page.jpg",
+    "dir": "p85",
+    "graphics": 1
+  },
+  {
+    "printed": 86,
+    "page_id": "brockhaus_bd2_p086",
+    "href": "/layout/p86/manifest.json",
+    "overlay": "/layout/p86/overlay.png",
+    "page": "/layout/p86/page.jpg",
+    "dir": "p86",
+    "graphics": 2
+  },
+  {
+    "printed": 88,
+    "page_id": "brockhaus_bd2_p088",
+    "href": "/layout/p88/manifest.json",
+    "overlay": "/layout/p88/overlay.png",
+    "page": "/layout/p88/page.jpg",
+    "dir": "p88",
+    "graphics": 1
+  },
+  {
+    "printed": 89,
+    "page_id": "brockhaus_bd2_p089",
+    "href": "/layout/p89/manifest.json",
+    "overlay": "/layout/p89/overlay.png",
+    "page": "/layout/p89/page.jpg",
+    "dir": "p89",
+    "graphics": 1
+  },
+  {
+    "printed": 90,
+    "page_id": "brockhaus_bd2_p090",
+    "href": "/layout/p90/manifest.json",
+    "overlay": "/layout/p90/overlay.png",
+    "page": "/layout/p90/page.jpg",
+    "dir": "p90",
+    "graphics": 2
+  },
+  {
+    "printed": 91,
+    "page_id": "brockhaus_bd2_p091",
+    "href": "/layout/p91/manifest.json",
+    "overlay": "/layout/p91/overlay.png",
+    "page": "/layout/p91/page.jpg",
+    "dir": "p91",
+    "graphics": 1
+  },
+  {
+    "printed": 92,
+    "page_id": "brockhaus_bd2_p092",
+    "href": "/layout/p92/manifest.json",
+    "overlay": "/layout/p92/overlay.png",
+    "page": "/layout/p92/page.jpg",
+    "dir": "p92",
+    "graphics": 2
+  },
+  {
+    "printed": 95,
+    "page_id": "brockhaus_bd2_p095",
+    "href": "/layout/p95/manifest.json",
+    "overlay": "/layout/p95/overlay.png",
+    "page": "/layout/p95/page.jpg",
+    "dir": "p95",
+    "graphics": 1
+  },
+  {
+    "printed": 98,
+    "page_id": "brockhaus_bd2_p098",
+    "href": "/layout/p98/manifest.json",
+    "overlay": "/layout/p98/overlay.png",
+    "page": "/layout/p98/page.jpg",
+    "dir": "p98",
+    "graphics": 1
+  },
+  {
+    "printed": 99,
+    "page_id": "brockhaus_bd2_p099",
+    "href": "/layout/p99/manifest.json",
+    "overlay": "/layout/p99/overlay.png",
+    "page": "/layout/p99/page.jpg",
+    "dir": "p99",
+    "graphics": 1
+  },
+  {
+    "printed": 100,
+    "page_id": "brockhaus_bd2_p100",
+    "href": "/layout/p100/manifest.json",
+    "overlay": "/layout/p100/overlay.png",
+    "page": "/layout/p100/page.jpg",
+    "dir": "p100",
+    "graphics": 1
+  },
+  {
+    "printed": 102,
+    "page_id": "brockhaus_bd2_p102",
+    "href": "/layout/p102/manifest.json",
+    "overlay": "/layout/p102/overlay.png",
+    "page": "/layout/p102/page.jpg",
+    "dir": "p102",
+    "graphics": 1
+  },
+  {
+    "printed": 105,
+    "page_id": "brockhaus_bd2_p105",
+    "href": "/layout/p105/manifest.json",
+    "overlay": "/layout/p105/overlay.png",
+    "page": "/layout/p105/page.jpg",
+    "dir": "p105",
+    "graphics": 2
+  },
+  {
+    "printed": 106,
+    "page_id": "brockhaus_bd2_p106",
+    "href": "/layout/p106/manifest.json",
+    "overlay": "/layout/p106/overlay.png",
+    "page": "/layout/p106/page.jpg",
+    "dir": "p106",
+    "graphics": 1
+  },
+  {
+    "printed": 108,
+    "page_id": "brockhaus_bd2_p108",
+    "href": "/layout/p108/manifest.json",
+    "overlay": "/layout/p108/overlay.png",
+    "page": "/layout/p108/page.jpg",
+    "dir": "p108",
+    "graphics": 1
+  },
+  {
+    "printed": 110,
+    "page_id": "brockhaus_bd2_p110",
+    "href": "/layout/p110/manifest.json",
+    "overlay": "/layout/p110/overlay.png",
+    "page": "/layout/p110/page.jpg",
+    "dir": "p110",
+    "graphics": 1
+  },
+  {
+    "printed": 112,
+    "page_id": "brockhaus_bd2_p112",
+    "href": "/layout/p112/manifest.json",
+    "overlay": "/layout/p112/overlay.png",
+    "page": "/layout/p112/page.jpg",
+    "dir": "p112",
+    "graphics": 1
+  },
+  {
+    "printed": 115,
+    "page_id": "brockhaus_bd2_p115",
+    "href": "/layout/p115/manifest.json",
+    "overlay": "/layout/p115/overlay.png",
+    "page": "/layout/p115/page.jpg",
+    "dir": "p115",
+    "graphics": 1
+  },
+  {
+    "printed": 122,
+    "page_id": "brockhaus_bd2_p122",
+    "href": "/layout/p122/manifest.json",
+    "overlay": "/layout/p122/overlay.png",
+    "page": "/layout/p122/page.jpg",
+    "dir": "p122",
+    "graphics": 2
+  },
+  {
+    "printed": 125,
+    "page_id": "brockhaus_bd2_p125",
+    "href": "/layout/p125/manifest.json",
+    "overlay": "/layout/p125/overlay.png",
+    "page": "/layout/p125/page.jpg",
+    "dir": "p125",
+    "graphics": 1
+  },
+  {
+    "printed": 126,
+    "page_id": "brockhaus_bd2_p126",
+    "href": "/layout/p126/manifest.json",
+    "overlay": "/layout/p126/overlay.png",
+    "page": "/layout/p126/page.jpg",
+    "dir": "p126",
+    "graphics": 2
+  },
+  {
+    "printed": 128,
+    "page_id": "brockhaus_bd2_p128",
+    "href": "/layout/p128/manifest.json",
+    "overlay": "/layout/p128/overlay.png",
+    "page": "/layout/p128/page.jpg",
+    "dir": "p128",
+    "graphics": 1
+  },
+  {
+    "printed": 129,
+    "page_id": "brockhaus_bd2_p129",
+    "href": "/layout/p129/manifest.json",
+    "overlay": "/layout/p129/overlay.png",
+    "page": "/layout/p129/page.jpg",
+    "dir": "p129",
+    "graphics": 1
+  },
+  {
+    "printed": 130,
+    "page_id": "brockhaus_bd2_p130",
+    "href": "/layout/p130/manifest.json",
+    "overlay": "/layout/p130/overlay.png",
+    "page": "/layout/p130/page.jpg",
+    "dir": "p130",
+    "graphics": 2
+  },
+  {
+    "printed": 131,
+    "page_id": "brockhaus_bd2_p131",
+    "href": "/layout/p131/manifest.json",
+    "overlay": "/layout/p131/overlay.png",
+    "page": "/layout/p131/page.jpg",
+    "dir": "p131",
+    "graphics": 2
+  },
+  {
+    "printed": 134,
+    "page_id": "brockhaus_bd2_p134",
+    "href": "/layout/p134/manifest.json",
+    "overlay": "/layout/p134/overlay.png",
+    "page": "/layout/p134/page.jpg",
+    "dir": "p134",
+    "graphics": 1
+  },
+  {
+    "printed": 137,
+    "page_id": "brockhaus_bd2_p137",
+    "href": "/layout/p137/manifest.json",
+    "overlay": "/layout/p137/overlay.png",
+    "page": "/layout/p137/page.jpg",
+    "dir": "p137",
+    "graphics": 1
+  },
+  {
+    "printed": 138,
+    "page_id": "brockhaus_bd2_p138",
+    "href": "/layout/p138/manifest.json",
+    "overlay": "/layout/p138/overlay.png",
+    "page": "/layout/p138/page.jpg",
+    "dir": "p138",
+    "graphics": 2
+  },
+  {
+    "printed": 139,
+    "page_id": "brockhaus_bd2_p139",
+    "href": "/layout/p139/manifest.json",
+    "overlay": "/layout/p139/overlay.png",
+    "page": "/layout/p139/page.jpg",
+    "dir": "p139",
+    "graphics": 2
+  },
+  {
+    "printed": 141,
+    "page_id": "brockhaus_bd2_p141",
+    "href": "/layout/p141/manifest.json",
+    "overlay": "/layout/p141/overlay.png",
+    "page": "/layout/p141/page.jpg",
+    "dir": "p141",
+    "graphics": 1
+  },
+  {
+    "printed": 144,
+    "page_id": "brockhaus_bd2_p144",
+    "href": "/layout/p144/manifest.json",
+    "overlay": "/layout/p144/overlay.png",
+    "page": "/layout/p144/page.jpg",
+    "dir": "p144",
+    "graphics": 1
+  },
+  {
+    "printed": 146,
+    "page_id": "brockhaus_bd2_p146",
+    "href": "/layout/p146/manifest.json",
+    "overlay": "/layout/p146/overlay.png",
+    "page": "/layout/p146/page.jpg",
+    "dir": "p146",
+    "graphics": 1
+  },
+  {
+    "printed": 160,
+    "page_id": "brockhaus_bd2_p160",
+    "href": "/layout/p160/manifest.json",
+    "overlay": "/layout/p160/overlay.png",
+    "page": "/layout/p160/page.jpg",
+    "dir": "p160",
+    "graphics": 2
+  },
+  {
+    "printed": 163,
+    "page_id": "brockhaus_bd2_p163",
+    "href": "/layout/p163/manifest.json",
+    "overlay": "/layout/p163/overlay.png",
+    "page": "/layout/p163/page.jpg",
+    "dir": "p163",
+    "graphics": 1
+  },
+  {
+    "printed": 164,
+    "page_id": "brockhaus_bd2_p164",
+    "href": "/layout/p164/manifest.json",
+    "overlay": "/layout/p164/overlay.png",
+    "page": "/layout/p164/page.jpg",
+    "dir": "p164",
+    "graphics": 1
+  },
+  {
+    "printed": 165,
+    "page_id": "brockhaus_bd2_p165",
+    "href": "/layout/p165/manifest.json",
+    "overlay": "/layout/p165/overlay.png",
+    "page": "/layout/p165/page.jpg",
+    "dir": "p165",
+    "graphics": 1
+  },
+  {
+    "printed": 166,
+    "page_id": "brockhaus_bd2_p166",
+    "href": "/layout/p166/manifest.json",
+    "overlay": "/layout/p166/overlay.png",
+    "page": "/layout/p166/page.jpg",
+    "dir": "p166",
+    "graphics": 1
+  },
+  {
+    "printed": 167,
+    "page_id": "brockhaus_bd2_p167",
+    "href": "/layout/p167/manifest.json",
+    "overlay": "/layout/p167/overlay.png",
+    "page": "/layout/p167/page.jpg",
+    "dir": "p167",
+    "graphics": 2
+  },
+  {
+    "printed": 170,
+    "page_id": "brockhaus_bd2_p170",
+    "href": "/layout/p170/manifest.json",
+    "overlay": "/layout/p170/overlay.png",
+    "page": "/layout/p170/page.jpg",
+    "dir": "p170",
+    "graphics": 3
+  },
+  {
+    "printed": 171,
+    "page_id": "brockhaus_bd2_p171",
+    "href": "/layout/p171/manifest.json",
+    "overlay": "/layout/p171/overlay.png",
+    "page": "/layout/p171/page.jpg",
+    "dir": "p171",
+    "graphics": 1
+  },
+  {
+    "printed": 174,
+    "page_id": "brockhaus_bd2_p174",
+    "href": "/layout/p174/manifest.json",
+    "overlay": "/layout/p174/overlay.png",
+    "page": "/layout/p174/page.jpg",
+    "dir": "p174",
+    "graphics": 1
+  },
+  {
+    "printed": 177,
+    "page_id": "brockhaus_bd2_p177",
+    "href": "/layout/p177/manifest.json",
+    "overlay": "/layout/p177/overlay.png",
+    "page": "/layout/p177/page.jpg",
+    "dir": "p177",
+    "graphics": 1
+  },
+  {
+    "printed": 178,
+    "page_id": "brockhaus_bd2_p178",
+    "href": "/layout/p178/manifest.json",
+    "overlay": "/layout/p178/overlay.png",
+    "page": "/layout/p178/page.jpg",
+    "dir": "p178",
+    "graphics": 1
+  },
+  {
+    "printed": 181,
+    "page_id": "brockhaus_bd2_p181",
+    "href": "/layout/p181/manifest.json",
+    "overlay": "/layout/p181/overlay.png",
+    "page": "/layout/p181/page.jpg",
+    "dir": "p181",
+    "graphics": 1
+  },
+  {
+    "printed": 182,
+    "page_id": "brockhaus_bd2_p182",
+    "href": "/layout/p182/manifest.json",
+    "overlay": "/layout/p182/overlay.png",
+    "page": "/layout/p182/page.jpg",
+    "dir": "p182",
+    "graphics": 1
+  },
+  {
+    "printed": 183,
+    "page_id": "brockhaus_bd2_p183",
+    "href": "/layout/p183/manifest.json",
+    "overlay": "/layout/p183/overlay.png",
+    "page": "/layout/p183/page.jpg",
+    "dir": "p183",
+    "graphics": 1
+  },
+  {
+    "printed": 189,
+    "page_id": "brockhaus_bd2_p189",
+    "href": "/layout/p189/manifest.json",
+    "overlay": "/layout/p189/overlay.png",
+    "page": "/layout/p189/page.jpg",
+    "dir": "p189",
+    "graphics": 2
+  },
+  {
+    "printed": 191,
+    "page_id": "brockhaus_bd2_p191",
+    "href": "/layout/p191/manifest.json",
+    "overlay": "/layout/p191/overlay.png",
+    "page": "/layout/p191/page.jpg",
+    "dir": "p191",
+    "graphics": 1
+  },
+  {
+    "printed": 194,
+    "page_id": "brockhaus_bd2_p194",
+    "href": "/layout/p194/manifest.json",
+    "overlay": "/layout/p194/overlay.png",
+    "page": "/layout/p194/page.jpg",
+    "dir": "p194",
+    "graphics": 2
+  },
+  {
+    "printed": 196,
+    "page_id": "brockhaus_bd2_p196",
+    "href": "/layout/p196/manifest.json",
+    "overlay": "/layout/p196/overlay.png",
+    "page": "/layout/p196/page.jpg",
+    "dir": "p196",
+    "graphics": 2
+  },
+  {
+    "printed": 197,
+    "page_id": "brockhaus_bd2_p197",
+    "href": "/layout/p197/manifest.json",
+    "overlay": "/layout/p197/overlay.png",
+    "page": "/layout/p197/page.jpg",
+    "dir": "p197",
+    "graphics": 2
+  },
+  {
+    "printed": 198,
+    "page_id": "brockhaus_bd2_p198",
+    "href": "/layout/p198/manifest.json",
+    "overlay": "/layout/p198/overlay.png",
+    "page": "/layout/p198/page.jpg",
+    "dir": "p198",
+    "graphics": 2
+  }
+]
