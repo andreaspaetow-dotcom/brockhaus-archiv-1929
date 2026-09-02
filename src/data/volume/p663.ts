@@ -1,0 +1,31 @@
+import type { EncPage } from "../types";
+import { L } from "./helpers";
+
+/** Druckseite 663 · Scan 705 · Bernstein (Gewinnung, Handel, Geschichte) */
+export const PAGE_663: EncPage = {
+  printed: 663,
+  scanFile: 705,
+  headerLeft: "Bernstein",
+  headerRight: "Bernstein",
+  catchword: "Pacht",
+  scanSrc: "/scans/p663.jpg",
+  left: [
+    L(
+      `Bistum Pomesanien. Auf der Strecke von Weichselmünde bis Putzig ist die Bernsteingewinnung ausschließliches Recht der Stadt Danzig. Dieses Recht sowie das Gewinnungsrecht des Freistaates Danzig an seinem früher westpreuß. Strand ist an die Bernsteinwerke in Königsberg verpachtet. Sonst ist der B. frei und gehört dem Besitzer des Grundes, auf dem er gefunden wird (Preuß. Ges. v. 22.&nbsp;Febr. 1867 und 11.&nbsp;Febr. 1924; westpreuß. Provinzialrecht §§ 73–75). Die fiskalischen Bernsteinwerke, die nur Roherzeugnisse absetzen, beschäftigen in ihren Betrieben in Palmnicken und Königsberg etwa 800 Arbeiter. Die Jahresproduktion betrug (1927) 379624 kg.`,
+    ),
+    L(
+      `<em>Handelsorten.</em> Nach Größe, Farbe und Durchsichtigkeit werden gegen 200 verschiedene Handelssorten unterschieden. Von der größten regulären Sorte (den Fliesen) gehen etwa 8, von der kleinsten (den Knibbeln) etwa 1500 Stück auf 1 kg. Alle kleineren Sorten heißen Firnis (Bernsteinfirnis), und man unterscheidet von diesem wieder gegen 20 Arten. Der Preis des handelsfertigen Rohbernsteins schwankt (1928) zwischen 2,5 und über 200 RM für 1 kg.`,
+    ),
+    L(
+      `<em>Bearbeitung und Verwendung.</em> Die fabrikmäßige Bearbeitung der rohen Stücke beginnt mit der Entfernung der Verwitterungskruste in rotierenden, mit Wasser und Sand beschickten Fässern. Dann werden die Stücke nach Farbe, Größe und Form sortiert unter gleichzeitiger Veredelung der Form durch Behauen mit hobeleisenartigen Messern. Das Zuschneiden erfolgt mit der Säge, das Runden auf der Drehbank oder mit der Feile. Zum Abreiben dient Schmirgel, zum Polieren angefeuchteter Trippel. Die runden Stücke werden hauptsächlich zu Perlen verarbeitet. Die rohgehaltenen Perlen heißen Kloben (Klöben), nach ihrer Durchbohrung Schnökel. Der Form nach unterscheidet man die länglichrunden Oliven und, wenn sie an den beiden Enden gerade abgeschnitten sind, Walzen von den kugelförmigen eigentl. Perlen. Der Naturform entsprechend unregelmäßig geformte Perlen heißen Korallen (Negerkorallen). Klare Perlen werden entweder glatt poliert oder mit Facettenschliff hergestellt. Aus Korallen hergestellte Ketten gehen nach Marokko, dem Sudan und dem Orient. Ebenso bilden die mohammedan. Betkränze einen wichtigen Handelsartikel. Die großen Bernsteinstücke finden Verwendung zu ganzen Zigarrenspitzen, die kleineren zu Zigarettenspitzen, Mundstücken für Pfeifen, Meerschaumspitzen usw. Hauptorte dieser Fabrikation sind in Deutschland Königsberg, Berlin, Stolp, Nürnberg, Ruhla, der Perlenfabrikation Königsberg und Danzig. Kleinere Bernsteinstücke dienen zur Herstellung von Preßbernstein. Sie werden hierzu unter außerordentlich hohem Druck zusammengepreßt. Aus Preßbernstein werden Raucherartikel hergestellt.`,
+    ),
+  ],
+  right: [
+    L(
+      `<em>Nachahmungen.</em> B. wird durch entsprechend gefärbte Glasflüsse, durch Kopal und andere Harze und neuerdings durch Kunstharze nachgeahmt. Glas ist an seiner Schwere und Härte leicht zu erkennen, Harze an ihrer größeren Weichheit und geringeren Widerstandskraft gegen Lösungsmittel, Kunstharze an ihrem höheren spez. Gew. (sie sinken in gesättigter Kochsalzlösung unter, während B. schwimmt).`,
+    ),
+    L(
+      `<em>Geschichtliches.</em> Im Altertum, wo man am geriebenen B. zuerst elektrische Erscheinungen wahrgenommen hatte, war seine pflanzl. Herkunft bekannt. Später änderten sich die Ansichten über seine Herkunft. Als Pflanzenharz wurde der B. erst 1767 von Friedr. Samuel Bock in Königsberg wiedererkannt; seine fossile Natur bewies Schweigger in Königsberg 1811. Im Volksglauben galt der B. bereits im Altertum als heilkräftig; noch jetzt wird ihm Schutzkraft gegen Krankheiten zugeschrieben. — Bereits in der Altsteinzeit wurde in Mitteleuropa hier und da B. als Schmuck verwendet; doch erst zur Jungsteinzeit wurde er in Norddeutschland und Skandinavien in großem Maße zu Perlen, Kleidungsknöpfen, Zieranhängern und zu primitiven Menschen- und Tierfiguren verarbeitet und von hier aus durch Handel nach Ostdeutschland, Polen und Galizien verbreitet. In Mittel- und Südeuropa war B. zur Steinzeit anscheinend noch unbekannt, erst in der Bronzezeit tritt er hier genau so wie in Nordeuropa auf; im alten Orient hat B. niemals eine besondere Rolle gespielt. Zur Hallstattzeit nimmt die Verbreitung des B. in ganz Nord-, Mittel- und Südeuropa noch beträchtlich zu. Ein Teil dieses B. ist sicher in Italien, Frankreich usw. selbst gewonnen, der weitaus größte Teil jedoch als Tauschobjekt aus dem Norden, und zwar von der Westküste Schleswig-Holsteins und Jütlands, hierhergekommen. In der Latènezeit ist er verhältnismäßig selten, dafür wieder um so häufiger in den ersten Jahrhunderten n.&nbsp;Chr. und im Mittelalter, in Gestalt von Perlen als Schmuck. — Während in den zuletztgenannten Landschaften ursprünglich jeder den B. sammeln konnte, bildete sich seit dem 13.&nbsp;Jahrh. das Eigentumsrecht des Landesherrn am B. (Bernsteinregal) heraus, das anfangs von den pommerellischen Herzögen für die Küsten von Westpreußen und Pommern ausgeübt wurde. Von ihnen ging es auf den Deutschen Orden über, der es auch auf Ostpreußen ausdehnte. Der Orden übertrug die Ausübung des Regals 1264 an den Bischof von Samland, 1312 an die Danziger Fischer, 1342 an das Kloster Oliva. Auch der Friede zu Thorn 1466 und die Teilung Polens 1773 änderten diese Gerechtsame mannigfach. Von den pommerellischen Herzögen, später vom Deutschen Orden, wurde der B. an die in einzelnen deutschen Städten (Brügge und Lübeck um 1300, Stolp, Kolberg, Danzig um 1450, in Königsberg um 1640) entstandenen Bernsteindreherzünfte (Paternostermacher) verhandelt. Als Haupthandelsplätze für B. galten im 15.&nbsp;Jahrh. Venedig, Frankfurt a.&nbsp;M., Köln und Nürnberg. An den Stränden von Ost- und Westpreußen wurde das Recht der Bernsteingewinnung seit 1811 in General-`,
+    ),
+  ],
+};
