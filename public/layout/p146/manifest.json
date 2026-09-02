@@ -1,0 +1,353 @@
+{
+  "page_id": "brockhaus_bd2_p146",
+  "printed": 146,
+  "scan_file": 154,
+  "canvas_size": {
+    "width": 1800,
+    "height": 2872
+  },
+  "columns": [
+    {
+      "id": "left",
+      "original_coordinates": {
+        "x1": 150,
+        "y1": 215,
+        "x2": 638,
+        "y2": 2723
+      }
+    },
+    {
+      "id": "right",
+      "original_coordinates": {
+        "x1": 1041,
+        "y1": 215,
+        "x2": 1800,
+        "y2": 2723
+      }
+    }
+  ],
+  "pipeline": {
+    "step_1": "Bounding-Box-Gitter: Text_Fraktur · Graphic · Caption",
+    "step_2": "Zwei-Masken: Maske A (Brotschrift-OCR) von der Grafikfläche subtrahiert",
+    "step_3": "Relayout-Matrix mit original_coordinates",
+    "step_4": "Rekonstruktion auf denselben Koordinaten",
+    "caption": "kleinere Fraktur direkt unter der Grafik als Unterkanten-Anker",
+    "padding_px": 5
+  },
+  "mask_a": [
+    {
+      "category": "Text_Fraktur",
+      "x1": 233,
+      "y1": 201,
+      "x2": 635,
+      "y2": 245
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 250,
+      "y1": 236,
+      "x2": 636,
+      "y2": 282
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 249,
+      "y1": 271,
+      "x2": 638,
+      "y2": 321
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 283,
+      "y1": 303,
+      "x2": 638,
+      "y2": 349
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 190,
+      "y1": 354,
+      "x2": 579,
+      "y2": 395
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 182,
+      "y1": 389,
+      "x2": 661,
+      "y2": 439
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 152,
+      "y1": 580,
+      "x2": 188,
+      "y2": 621
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 297,
+      "y1": 931,
+      "x2": 626,
+      "y2": 972
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 272,
+      "y1": 985,
+      "x2": 446,
+      "y2": 1027
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 150,
+      "y1": 1004,
+      "x2": 192,
+      "y2": 1045
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 151,
+      "y1": 1406,
+      "x2": 188,
+      "y2": 1447
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 240,
+      "y1": 1587,
+      "x2": 346,
+      "y2": 1628
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 151,
+      "y1": 1839,
+      "x2": 190,
+      "y2": 1880
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 153,
+      "y1": 2248,
+      "x2": 192,
+      "y2": 2289
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 294,
+      "y1": 2629,
+      "x2": 672,
+      "y2": 2683
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 134,
+      "y1": 2692,
+      "x2": 403,
+      "y2": 2733
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1444,
+      "y1": 140,
+      "x2": 1507,
+      "y2": 182
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1541,
+      "y1": 167,
+      "x2": 1569,
+      "y2": 209
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 954,
+      "y1": 325,
+      "x2": 1256,
+      "y2": 366
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1774,
+      "y1": 396,
+      "x2": 1801,
+      "y2": 438
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1037,
+      "y1": 592,
+      "x2": 1303,
+      "y2": 640
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1259,
+      "y1": 758,
+      "x2": 1810,
+      "y2": 807
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1354,
+      "y1": 779,
+      "x2": 1572,
+      "y2": 839
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1549,
+      "y1": 797,
+      "x2": 1612,
+      "y2": 841
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1781,
+      "y1": 822,
+      "x2": 1811,
+      "y2": 863
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1789,
+      "y1": 855,
+      "x2": 1801,
+      "y2": 896
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1592,
+      "y1": 888,
+      "x2": 1749,
+      "y2": 943
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1008,
+      "y1": 1090,
+      "x2": 1157,
+      "y2": 1131
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1180,
+      "y1": 1118,
+      "x2": 1421,
+      "y2": 1159
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1103,
+      "y1": 1192,
+      "x2": 1633,
+      "y2": 1242
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1763,
+      "y1": 1226,
+      "x2": 1800,
+      "y2": 1268
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1550,
+      "y1": 1241,
+      "x2": 1772,
+      "y2": 1283
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1638,
+      "y1": 1438,
+      "x2": 1760,
+      "y2": 1479
+    },
+    {
+      "category": "Text_Fraktur",
+      "x1": 1795,
+      "y1": 1486,
+      "x2": 1805,
+      "y2": 1527
+    }
+  ],
+  "elements": [
+    {
+      "type": "graphic",
+      "category": "Graphic",
+      "id": "img_001",
+      "original_coordinates": {
+        "x1": 1496,
+        "y1": 1085,
+        "x2": 1798,
+        "y2": 1232
+      },
+      "optimized_file": "g01.png",
+      "kind": "photographie",
+      "slot": "float-right",
+      "padding_px": 8,
+      "caption": "A TJ S 3"
+    },
+    {
+      "type": "caption",
+      "category": "Caption",
+      "associated_with": "img_001",
+      "original_coordinates": {
+        "x1": 1550,
+        "y1": 1241,
+        "x2": 1772,
+        "y2": 1282
+      },
+      "text_ocr": "A TJ S 3",
+      "text_clean": "A TJ S 3"
+    },
+    {
+      "type": "text_zone",
+      "id": "tz_001",
+      "column": "left",
+      "original_coordinates": {
+        "x1": 150,
+        "y1": 215,
+        "x2": 638,
+        "y2": 2723
+      }
+    },
+    {
+      "type": "text_zone",
+      "id": "tz_002",
+      "column": "right",
+      "original_coordinates": {
+        "x1": 1041,
+        "y1": 215,
+        "x2": 1800,
+        "y2": 1081
+      }
+    },
+    {
+      "type": "text_zone",
+      "id": "tz_003",
+      "column": "right",
+      "wrap": "img_001",
+      "original_coordinates": {
+        "x1": 1041,
+        "y1": 1085,
+        "x2": 1490,
+        "y2": 1284
+      }
+    },
+    {
+      "type": "text_zone",
+      "id": "tz_004",
+      "column": "right",
+      "original_coordinates": {
+        "x1": 1041,
+        "y1": 1288,
+        "x2": 1800,
+        "y2": 2723
+      }
+    }
+  ]
+}
